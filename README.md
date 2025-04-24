@@ -1,6 +1,7 @@
 # Bayesian-Optimized Locally Stationary Factor Model
 
-**Author:** Moka Kaleji  
+**Author:** Moka Kaleji • Master’s Thesis, University of Bologna • Contact: mohammadkaleji1998@gmail.com
+
 **Affiliation:** Master’s Thesis in Econometrics & Time Series Analysis  
 
 This repository implements hyperparameter tuning via Bayesian optimization for the  
