@@ -1,5 +1,5 @@
 %% lsfm_bo_forecasting.m
-% Author: Moka Kaleji
+% Author: Moka Kaleji • Contact: mohammadkaleji1998@gmail.com
 % Affiliation: Master Thesis in Econometrics, University of Bologna
 % Description:
 %   Executes forecasting for macroeconomic indicators (GDP, Unemployment,
